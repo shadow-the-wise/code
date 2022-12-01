@@ -1,0 +1,523 @@
+{
+  "results": {
+    "search_term": "structure",
+    "total_count": 123,
+    "9": 1,
+    "8": 0,
+    "7": 7,
+    "6": 10,
+    "5": 29,
+    "4": 36,
+    "3": 28,
+    "2": 12
+  },
+  "9": [
+    {
+      "id": 189819,
+      "word": "structure"
+    }
+  ],
+  "8": [
+
+  ],
+  "7": [
+    {
+      "id": 45776,
+      "word": "crureus"
+    },
+    {
+      "id": 45814,
+      "word": "cruster"
+    },
+    {
+      "id": 45829,
+      "word": "crutter"
+    },
+    {
+      "id": 167658,
+      "word": "retrust"
+    },
+    {
+      "id": 175126,
+      "word": "scutter"
+    },
+    {
+      "id": 194128,
+      "word": "surcrue"
+    },
+    {
+      "id": 207121,
+      "word": "truster"
+    }
+  ],
+  "6": [
+    {
+      "id": 46687,
+      "word": "curser"
+    },
+    {
+      "id": 46900,
+      "word": "cutter"
+    },
+    {
+      "id": 163934,
+      "word": "rectus"
+    },
+    {
+      "id": 170840,
+      "word": "rustre"
+    },
+    {
+      "id": 170884,
+      "word": "rutter"
+    },
+    {
+      "id": 194458,
+      "word": "suture"
+    },
+    {
+      "id": 208017,
+      "word": "turret"
+    },
+    {
+      "id": 224359,
+      "word": "urceus"
+    },
+    {
+      "id": 224876,
+      "word": "usurer"
+    },
+    {
+      "id": 224946,
+      "word": "uterus"
+    }
+  ],
+  "5": [
+    {
+      "id": 32858,
+      "word": "cetus"
+    },
+    {
+      "id": 45113,
+      "word": "crest"
+    },
+    {
+      "id": 45723,
+      "word": "cruet"
+    },
+    {
+      "id": 45785,
+      "word": "cruse"
+    },
+    {
+      "id": 45795,
+      "word": "crust"
+    },
+    {
+      "id": 46592,
+      "word": "curer"
+    },
+    {
+      "id": 46683,
+      "word": "curse"
+    },
+    {
+      "id": 46704,
+      "word": "curst"
+    },
+    {
+      "id": 64109,
+      "word": "eruct"
+    },
+    {
+      "id": 65230,
+      "word": "eurus"
+    },
+    {
+      "id": 163951,
+      "word": "recur"
+    },
+    {
+      "id": 163987,
+      "word": "recut"
+    },
+    {
+      "id": 175096,
+      "word": "scute"
+    },
+    {
+      "id": 177874,
+      "word": "serut"
+    },
+    {
+      "id": 188310,
+      "word": "stert"
+    },
+    {
+      "id": 189491,
+      "word": "stret"
+    },
+    {
+      "id": 189825,
+      "word": "strue"
+    },
+    {
+      "id": 189856,
+      "word": "strut"
+    },
+    {
+      "id": 190069,
+      "word": "sturt"
+    },
+    {
+      "id": 191966,
+      "word": "sucre"
+    },
+    {
+      "id": 205255,
+      "word": "trest"
+    },
+    {
+      "id": 206977,
+      "word": "truce"
+    },
+    {
+      "id": 207023,
+      "word": "truer"
+    },
+    {
+      "id": 207112,
+      "word": "trust"
+    },
+    {
+      "id": 208039,
+      "word": "turse"
+    },
+    {
+      "id": 208058,
+      "word": "turus"
+    },
+    {
+      "id": 224848,
+      "word": "uster"
+    },
+    {
+      "id": 224875,
+      "word": "usure"
+    },
+    {
+      "id": 225000,
+      "word": "utter"
+    }
+  ],
+  "4": [
+    {
+      "id": 32809,
+      "word": "cest"
+    },
+    {
+      "id": 45780,
+      "word": "crus"
+    },
+    {
+      "id": 46588,
+      "word": "cure"
+    },
+    {
+      "id": 46654,
+      "word": "curr"
+    },
+    {
+      "id": 46710,
+      "word": "curt"
+    },
+    {
+      "id": 46853,
+      "word": "cute"
+    },
+    {
+      "id": 59016,
+      "word": "ecru"
+    },
+    {
+      "id": 64103,
+      "word": "eruc"
+    },
+    {
+      "id": 163858,
+      "word": "rect"
+    },
+    {
+      "id": 166973,
+      "word": "rest"
+    },
+    {
+      "id": 170466,
+      "word": "ruer"
+    },
+    {
+      "id": 170745,
+      "word": "ruru"
+    },
+    {
+      "id": 170749,
+      "word": "ruse"
+    },
+    {
+      "id": 170813,
+      "word": "rust"
+    },
+    {
+      "id": 175055,
+      "word": "scur"
+    },
+    {
+      "id": 175080,
+      "word": "scut"
+    },
+    {
+      "id": 175497,
+      "word": "sect"
+    },
+    {
+      "id": 177863,
+      "word": "sert"
+    },
+    {
+      "id": 178047,
+      "word": "sett"
+    },
+    {
+      "id": 188320,
+      "word": "stet"
+    },
+    {
+      "id": 189362,
+      "word": "stre"
+    },
+    {
+      "id": 189952,
+      "word": "stue"
+    },
+    {
+      "id": 190075,
+      "word": "stut"
+    },
+    {
+      "id": 192022,
+      "word": "suer"
+    },
+    {
+      "id": 192025,
+      "word": "suet"
+    },
+    {
+      "id": 194141,
+      "word": "sure"
+    },
+    {
+      "id": 194454,
+      "word": "sutu"
+    },
+    {
+      "id": 199203,
+      "word": "test"
+    },
+    {
+      "id": 205261,
+      "word": "tret"
+    },
+    {
+      "id": 207013,
+      "word": "true"
+    },
+    {
+      "id": 208016,
+      "word": "turr"
+    },
+    {
+      "id": 208104,
+      "word": "tute"
+    },
+    {
+      "id": 208137,
+      "word": "tuts"
+    },
+    {
+      "id": 208143,
+      "word": "tutu"
+    },
+    {
+      "id": 224778,
+      "word": "urus"
+    },
+    {
+      "id": 224811,
+      "word": "user"
+    }
+  ],
+  "3": [
+    {
+      "id": 46207,
+      "word": "cue"
+    },
+    {
+      "id": 46531,
+      "word": "cur"
+    },
+    {
+      "id": 46844,
+      "word": "cut"
+    },
+    {
+      "id": 64060,
+      "word": "err"
+    },
+    {
+      "id": 64091,
+      "word": "ers"
+    },
+    {
+      "id": 167209,
+      "word": "ret"
+    },
+    {
+      "id": 170458,
+      "word": "rue"
+    },
+    {
+      "id": 170746,
+      "word": "rus"
+    },
+    {
+      "id": 170846,
+      "word": "rut"
+    },
+    {
+      "id": 175405,
+      "word": "sec"
+    },
+    {
+      "id": 177494,
+      "word": "ser"
+    },
+    {
+      "id": 178009,
+      "word": "set"
+    },
+    {
+      "id": 189888,
+      "word": "stu"
+    },
+    {
+      "id": 192019,
+      "word": "sue"
+    },
+    {
+      "id": 194107,
+      "word": "sur"
+    },
+    {
+      "id": 194459,
+      "word": "suu"
+    },
+    {
+      "id": 197800,
+      "word": "tec"
+    },
+    {
+      "id": 207245,
+      "word": "tst"
+    },
+    {
+      "id": 207496,
+      "word": "tue"
+    },
+    {
+      "id": 207749,
+      "word": "tur"
+    },
+    {
+      "id": 208101,
+      "word": "tut"
+    },
+    {
+      "id": 224368,
+      "word": "ure"
+    },
+    {
+      "id": 224738,
+      "word": "urs"
+    },
+    {
+      "id": 224770,
+      "word": "uru"
+    },
+    {
+      "id": 224796,
+      "word": "use"
+    },
+    {
+      "id": 224846,
+      "word": "ust"
+    },
+    {
+      "id": 224908,
+      "word": "ute"
+    },
+    {
+      "id": 225011,
+      "word": "utu"
+    }
+  ],
+  "2": [
+    {
+      "id": 31796,
+      "word": "ce"
+    },
+    {
+      "id": 63792,
+      "word": "er"
+    },
+    {
+      "id": 64246,
+      "word": "es"
+    },
+    {
+      "id": 64878,
+      "word": "eu"
+    },
+    {
+      "id": 162629,
+      "word": "re"
+    },
+    {
+      "id": 175216,
+      "word": "se"
+    },
+    {
+      "id": 186972,
+      "word": "st"
+    },
+    {
+      "id": 197659,
+      "word": "te"
+    },
+    {
+      "id": 207255,
+      "word": "tu"
+    },
+    {
+      "id": 224229,
+      "word": "ur"
+    },
+    {
+      "id": 224785,
+      "word": "us"
+    },
+    {
+      "id": 224899,
+      "word": "ut"
+    }
+  ]
+}
